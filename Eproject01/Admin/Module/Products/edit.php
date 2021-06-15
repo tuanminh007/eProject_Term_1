@@ -1,9 +1,9 @@
 <?php
-$title = 'Sua san pham';
-require_once('Layout/header.php');
+$title = "Sửa sản phẩm";
 require_once('Config/utility.php');
-$id = '';
-$title = $category = $thumbnail = $manufacturer = $description = $price = $quantity = $status = '';
+require_once('Layout/header.php');
+$id = "";
+$title = $category = $thumbnail = $manufacturer = $description = $price = $quantity = $status ="";
 if(isset($_GET['id'])){
 	$id = $_GET['id'];
 	$sql = "SELECT * FROM product WHERE ID = '$id'";
@@ -16,16 +16,24 @@ if(isset($_GET['id'])){
 	$price = $itm['PRICE'];
 	$quantity = $itm['QUANTITY'];
 	$status = $itm['STATUS'];
+}
+if(!empty($_POST)){
+	$title = getPost('title');
+	$category = getPost('category');
+	$th = getPost('img');
+	$folder = "../Images/New/";
+	$thumbnail = $folder.$th;
+	$manufacturer = getPost('manufacturer');
+	$description = getPost('description');	
+	$price = getPost('price');
+	$quantity = getPost('quantity');
+	$status = getPost('status');
 
-	$sql="UPDATE product SET TITLE = '$title', CATEGORY = '$category', THUMBNAIL = '$thumbnail', MANUFACTURER = '$manufacturer', DESCRIPTION = '$description', PRICE = '$price', QUANTITY = '$quantity', STATUS = '$status'";
+	$sql="UPDATE product SET TITLE = '$title', CATEGORY = '$category', THUMBNAIL = '$thumbnail', MANUFACTURER = '$manufacturer', DESCRIPTION = '$description', PRICE = '$price', QUANTITY = '$quantity', STATUS = '$status' WHERE ID = '$id'";
 	execute($sql);
 	header("location: index.php?module=products&action=list");
-
-
 }
-
 ?>
-
 <div class="container" style="width: 50%; margin-top: 20px;">
 <form class="form-group" method="POST">
 		<label for="title">Title</label>

@@ -7,7 +7,9 @@ $title = $category = $thumbnail = $manufacturer = $description = $price = $quant
 if(!empty($_POST)){
 	$title = getPost('title');
 	$category = getPost('category');
-	$thumbnail = getPost('img');
+	$th = getPost('img');
+	$folder = "../Images/New/";
+	$thumbnail = $folder.$th;
 	$manufacturer = getPost('manufacturer');
 	$description = getPost('description');
 	$price = getPost('price');
