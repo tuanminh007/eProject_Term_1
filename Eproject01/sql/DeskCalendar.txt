@@ -1,0 +1,14 @@
+INSERT INTO product(TITLE, THUMBNAIL,CATEGORY, MANUFACTURER, DESCRIPTION, PRICE, QUANTITY, STATUS)
+VALUES
+('Thomas Kinkade Studios 2022 Day-to-Day','../Images/Calendar/Desk Calendar/Thumbnail/DC-001-01.png','Desk Calendar','Thomas Kinkade','	Authentic Thomas Kinkade Studios Limited Edition Art, Gifts and Collectibles directly from Thomas Kinkade Studios.',30.5,50,1),
+('Mary Engelbreits 2022 Day-to-Day','../Images/Calendar/Desk Calendar/Thumbnail/DC-002-01.png','Desk Calendar','Mary Engelbreits', 'Keep track of your appointments, practices, school events, lessons, vacations, and more with Mary Engelbreit’s 2022 Desk Calendar.',28.0,100,1),
+('Thoughts of Dog 2022 Day-to-Day','../Images/Calendar/Desk Calendar/Thumbnail/DC-003-01.png','Desk Calendar','Matt Nelson', 'Based on the hilarious @dog_feelings Twitter and Instagram feeds by Matt Nelson of WeRateDogs, this calendar offers sweet, endearing thoughts from the paw-spective of a good dog. Hailed by many as the only reason they stay on social media, the pontificating pup’s reflections on life always bring laughs or melt hearts.',20.0,200,1),
+('Dog Shaming 2022 Day-to-Day','../Images/Calendar/Desk Calendar/Thumbnail/DC-004-01.png','Desk Calendar','Pascale Lemire(dogshaming.com)', 'The Dog Shaming 2022 Day-to-Day Calendar shows a different reader-contributed photo and caption on each page, and features a variety of dog breeds and misdeeds with humor that great for home and safe for work.',16.0,1000,1),
+('ZEN 2021 Page-a-day','../Images/Calendar/Desk Calendar/Thumbnail/DC-005-01.png','Desk Calendar','David Schiller(Workman Calendars)', 'The Zen calendar features hundreds of insightful and inspiring quotes, koans, poems, parables, and mondos from wise people across ages and cultures that will center you throughout the year',35.0,150,1),
+('Cat 2022 Page-A-Day Gallery','../Images/Calendar/Desk Calendar/Thumbnail/DC-006-01.png','Desk Calendar','Workman Calendars', 'A tribute to the unparalleled beauty and elegance of cats.
+
+Here is a year of cat portraits, in both black-and-white and color, which capture the beguiling combination of independence, attitude, and grace that cat people just can’t resist. ',18.99,1000,1),
+('Life Hacks 2022 Day-to-Day','../Images/Calendar/Desk Calendar/Thumbnail/DC-007-01.png','Desk Calendar','Keith Bradford(1000lifehacks.com)', 'With hundreds of tips, tricks, and time savers, this daily desk calendar will help you work smarter, not harder, so you have more time for fun!',15.99,1500,1),
+('Garfield 2022 Day-to-Day','../Images/Calendar/Desk Calendar/Thumbnail/DC-008-01.png','Desk Calendar','Jim Davis', 'The only thing worse than a Monday is a Monday without the daily dose of fun from the Garfield 2022 Day-to-Day Calendar.',15.99,1000,1)
+
+

@@ -1,0 +1,9 @@
+D - Diary & Planner - list link ảnh cho THUMBNAIL (các ảnh đuôi 02, 03, ... cho phần detail sản phẩm)
+D-001-01
+D-002-01
+D-003-01
+D-004-01
+D-005-01
+D-006-01
+D-007-01
+D-008-01

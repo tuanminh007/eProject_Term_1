@@ -1,0 +1,18 @@
+FP - Fountain Pen - list link ảnh cho THUMBNAIL (các ảnh đuôi 02, 03, ... cho phần detail sản phẩm)
+FP-001-01
+FP-002-01
+FP-003-01
+FP-004-01
+FP-005-01
+FP-006-01
+FP-007-01
+FP-008-01
+FP-009-01
+FP-010-01
+FP-011-01
+FP-012-01
+FP-013-01
+FP-014-01
+FP-015-01
+FP-016-01
+FP-017-01

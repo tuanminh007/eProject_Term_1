@@ -1,0 +1,10 @@
+DC - Desk Calendar - list link ảnh cho THUMBNAIL (các ảnh đuôi 02, 03, ... cho phần detail sản phẩm)
+DC-001-01
+DC-002-01
+DC-003-01
+DC-004-01
+DC-005-01
+DC-006-01
+DC-007-01
+DC-008-01
+

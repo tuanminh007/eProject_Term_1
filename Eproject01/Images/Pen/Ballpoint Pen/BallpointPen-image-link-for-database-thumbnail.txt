@@ -1,0 +1,12 @@
+BP - Pencils - list link ảnh cho THUMBNAIL (các ảnh đuôi 02, 03, ... cho phần detail sản phẩm)
+BP-001-01
+BP-002-01
+BP-003-01
+BP-004-01
+BP-005-01
+BP-006-01
+BP-007-01
+BP-008-01
+BP-009-01
+BP-010-01
+BP-011-01

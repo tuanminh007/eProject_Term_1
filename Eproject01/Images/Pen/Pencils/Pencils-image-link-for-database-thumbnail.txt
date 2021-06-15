@@ -1,0 +1,9 @@
+P - Pencils - list link ảnh cho THUMBNAIL (các ảnh đuôi 02, 03, ... cho phần detail sản phẩm)
+P-001-01
+P-002-01
+P-003-01
+P-004-01
+P-005-01
+P-006-01
+P-007-01
+
