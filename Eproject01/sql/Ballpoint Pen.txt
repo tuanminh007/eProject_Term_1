@@ -1,0 +1,26 @@
+INSERT INTO product(TITLE, THUMBNAIL,CATEGORY, MANUFACTURER, DESCRIPTION, PRICE, QUANTITY, STATUS)
+VALUES
+('Safari Black','../Images/Pen/Ballpoint Pen/Thumbnail/BP-001-01.png','Ballpoint Pen','LAMY','ABS black plastic casing. Sturdy Metal Clip. Practical grip mould. Ink color - Black. Lamy M16 black M refil',13.75,250,1),
+('Logo Plus','../Images/Pen/Ballpoint Pen/Thumbnail/BP-002-01.png','Ballpoint Pen','LAMY','The LAMY Logo Plus ballpoint pen is the perfect everyday workhorse writing instrument that is built for comfort and to last.
+Featuring smooth, high quality plastic construction with a sprung stainless steel clip and push activation mechanism, this ballpoint pen is a pleasure to use and comes in a selection of colours to suit all tastes.
+The Lamy Logo ballpoint pen refills with a LAMY giant refill M 16.',17.45,250,1),
+('Econ','../Images/Pen/Ballpoint Pen/Thumbnail/BP-003-01.png','Ballpoint Pen','LAMY','Pure and cylindrical shape, made of stainless steel, sandblasted. With metal tip and characteristic clip. Ballpoint pen with LAMY giant refill M 16 black M. Designer: EOOS',30.00,250,1),
+('Scribble','../Images/Pen/Ballpoint Pen/Thumbnail/BP-004-01.png','Ballpoint Pen','LAMY','The Lamy Scribble Ballpoint Pen is designed for creative minds of all ages. You can express your knack for stylish designs while your hand feels great doing all of your daily writing with the Scribble!
+
+The wide, black matte barrel has a contoured grip that is comfortable to hold while writing. The comfortable, ergonomic form lets you jot down all of your thoughts or take a few hours to draft your next sketch without wearing out your hand.
+
+The Scribble retractable ballpoint pen has a chrome-plated clip, tip and push-top button mechanism adding contrast to its beautifully understated matte black body. Express yourself with the best ballpoint pen for jotting down anything - the Scribble!',40.00,250,1),
+('Dialog 1','../Images/Pen/Ballpoint Pen/Thumbnail/BP-005-01.png','Ballpoint Pen','LAMY','Lamy dialog 1 ballpoint pen. Metal body with triangular cross-section and rounded edges. Sprung, stainless steel clip. Clip and barrel are coated in titanium. Push the clip down to extend or retract the writing tip.
+
+Supplied with medium black ballpen refill.
+
+Designed by renowned German designer Richard Sapper, who also designed the Alessi kettle, IBM Thinkpad and the Tizio desk lamp, among many other design classics.',100.20,250,1),
+('Pico','../Images/Pen/Ballpoint Pen/Thumbnail/BP-006-01.png','Ballpoint Pen','LAMY','Small and handy, the LAMY pico first shows its full potential when expanded. An innovative pocket pen that transforms into a full-grown ballpoint pen thanks to its sophisticated push mechanism.',40.00,250,1),
+('Classic Click','../Images/Pen/Ballpoint Pen/Thumbnail/BP-007-01.png','Ballpoint Pen','Moleskine','The shape of this neat Click Ball Pen is inspired by the design of the Moleskine Classic Notebook. Like the other pens in the Writing Collection, it clips onto any hard cover notebook, ready to jot down ideas whenever inspiration strikes.',23.00,250,1),
+('Brass','../Images/Pen/Ballpoint Pen/Thumbnail/BP-008-01.png','Ballpoint Pen','Traveler\'s Company','The Traveler\'s Company ballpoint pens stands out for its unusual design. It consists of two parts, of which one functions as the cover for the other. When closed, the pen is shaped like a bullet, 9.7 centimeters long. When the lower compartment, containing the ink reservoir and the tip of the pen, is turned out, it becomes a slender writing device of 14 cm long. This compact design is perfect for making notes on the go.',40.00,250,1),
+('Classic','../Images/Pen/Ballpoint Pen/Thumbnail/BP-009-01.png','Ballpoint Pen','KAWECO','The sporty style of these compact, retractable ballpoint pens transcends time and is just as attractive today as when they were first created years ago. Each pen is made of high-quality plastic and features a metal Kaweco logo on the top push button. These pens can be used with a wide variety of refills, listed under Recommended Refills/Parts.',36.00,250,1),
+('Special','../Images/Pen/Ballpoint Pen/Thumbnail/BP-010-01.png','Ballpoint Pen','KAWECO','The Special is a minimalist octagonal pen. This brass version is made from untreated brass - there\'s nothing to protect the metal surface, meaning the brass will tarnish beautifully with time and use. You can keep it polished to a golden shine if you want to, or just let it go, and watch the metal age, reflecting your use, developing a patina that reflects its history.',52.00,250,1),
+('Liliput','../Images/Pen/Ballpoint Pen/Thumbnail/BP-011-01.png','Ballpoint Pen','KAWECO','The Kaweco Liliput pen is incredibly slim yet sturdy—perfect for taking on the go in your pocket or pen case! Threading on the end of the barrel allows the cap to be screwed on securely, bringing the pen to a comfortable, full-sized length while in use. It can be used with a wide variety of refills, listed under Recommended Refills/Parts.
+This pen is constructed from lead-free Eco Brass that will darken and change color over time as the brass oxidizes, acquiring a natural antique character.
+
+Note: This pen has a noticeable metallic scent that can transfer to the user\'s hand for a short time after use.',70.00,250,1)

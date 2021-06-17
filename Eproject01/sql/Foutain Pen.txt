@@ -1,0 +1,73 @@
+INSERT INTO product(TITLE, THUMBNAIL,CATEGORY, MANUFACTURER, DESCRIPTION, PRICE, QUANTITY, STATUS)
+VALUES
+('Safari','../Images/Pen/Foutain Pen/Thumbnail/FP-001-01.png','Foutain Pen','LAMY','Life is a jungle, and the special LAMY Safari pen can take you through it one stroke at a time. LAMY is a world-renowned pen manufacturer headquartered in Germany. Its Safari line features high-quality pens composed of sturdy plastic, steel nibs, and self-sprung metal clips. They have a unique, modern aesthetic, and are well-designed.',29.60,250,1),
+('AL-Star','../Images/Pen/Foutain Pen/Thumbnail/FP-002-01.png','Foutain Pen','LAMY','Give your written words some energy with the alluring Lamy Al-Star Fountain Pen! Your daily writing will be easier than ever with the Al-Star\'s lightweight, yet durable aluminum barrel.
+
+With the transparent gray front section and flexible spring brass wire clip, the Al-Star fountain pen will quickly become your next favorite writing instrument! Once in hand, you will quickly recognize the comfortable front section that makes it easy to keep writing for hours.',47.00,250,1),
+('ABC','../Images/Pen/Foutain Pen/Thumbnail/FP-003-01.png','Foutain Pen','LAMY','The LAMY ABC fountain pen is a bestseller for years, because it is one of the best pens available for children to learn to write. The barrel is made of wood and the ergonomic nib section learns children to hold a pen in the best possible way.
+
+The fountain pen has a steel nib and uses the LAMY T10 cartridges (which can be found here in our webstore).
+
+Lamy stands for quality, innovation and modern design. The Lamy brand holds a promise: LAMY. No design writes better.
+
+Please make your choice below for the preferred edition.',16.50,250,1),
+('Safari Origin Gift Set','../Images/Pen/Foutain Pen/Thumbnail/FP-004-01.png','Foutain Pen','LAMY','A legend 40 years in the making, the LAMY safari Origin Special Edition fountain pen returns to its roots, recreating the savannah green and terra red colours from the iconic pen\'s 1980 debut. Paired with ink and presented in custom packaging, this Gift Set is a beautiful way to celebrate an icon\'s anniversary in style.
+
+Created by Wolfgang Fabian, the designer behind many of LAMY\'s most beloved pens, the safari\'s rugged construction was revolutionary – finally, students could enjoy a robust, comfortable pen that was built to last. And last it did, with its classic design remaining essentially unchanged for four decades as it continues to be one of LAMY\'s best-loved pens.
+
+With a lightweight build and fine balance, the Safari\'s sturdy plastic is moulded to fit neatly in your hand, making handwriting a comfortable and graceful affair. Easy to refill with convenient ink cartridges, or compatible with converters for bottled ink, the Safari is a beautiful fountain pen that will make an impression whether it\'s your first or your fiftieth.',72.20,250,1),
+('LOGO','../Images/Pen/Foutain Pen/Thumbnail/FP-005-01.png','Foutain Pen','LAMY','The timeless design of the Lamy Logo and high level of functionality makes this pen a reliable companion in any and every writing situation.',36.00,250,1),
+('Aion Dark Green Special Edition','../Images/Pen/Foutain Pen/Thumbnail/FP-006-01.png','Foutain Pen','LAMY','The smooth deep-drawn aluminium body components are the first of their kind and give the series a unique, harmonious appearance. Brushed and blasted surfaces are refined with a brilliant silk-matt anodic coating finish, creating formal tension. The sturdy high gloss polished clip perfectly rounds off the overall design.
+
+Smooth deep-drawn aluminium.
+Brished and blasted surfaces.
+Silk-matt anodic coating finish.
+High gloss polished clip.
+Stainless-steel nib.
+To use with large-capacity cartridge LAMY T10 or Converter Z27.
+Delivered in a nice gift box.
+This collection was designed by Jasper Morrison.',74.00,250,1),
+('Dialog 3','../Images/Pen/Foutain Pen/Thumbnail/FP-007-01.png','Foutain Pen','LAMY','In 2003, Lamy launched the Dialog series of high-end writing instruments and collaborating with famed industrial designers in their conception. In 2009, the Dialog 3 was designed by Franco Clivio, among others he designed for clients such as Erco, FSB, Gardena, Rodenstock and Siemens.
+
+Both the nib and the clip retract into the Lamy dialog 3\'s body. Its innovative rotating mechanism makes this premium fountain pen the first of its kind. Twist the pen and the 14 carat gold nib glides elegantly out of the body, while the clip sinks down. When closed, a ball valve prevents the retracted nib from drying out and getting dirty.
+
+The fountain pen uses the ink cartridge/converter filling system.
+
+Lamy is an independent family-owned enterprise which was established in 1930 by , former Parker employee, C. Josef Lamy in Heidelberg. The Lamy brand has existed since 1952 and proved its innovative prowess in the very first year with the completely novel Lamy 27 fountain pen series. And in 1966 the distinctive style of Lamy Design was born with the Lamy 2000.',36.00,250,1),
+('Safari Origin Special Edition','../Images/Pen/Foutain Pen/Thumbnail/FP-008-01.png','Foutain Pen','LAMY','Back to the Roots – that’s the motto this year for the LAMY safari. The cult fountain pen has already been on the market now for more than 40 years. As a tribute to this, Lamy is taking a look back at the beginnings of this unprecedented success story – with two special colours: savannah green and terra red.',27.50,250,1),
+('Scala','../Images/Pen/Foutain Pen/Thumbnail/FP-009-01.png','Foutain Pen','LAMY','High-end fountain pen with cap.
+Made of stainless steel.
+With matt black finish and high-gloss chrome-plated grip and clip.',110.00,250,1),
+('Studio','../Images/Pen/Foutain Pen/Thumbnail/FP-010-01.png','Foutain Pen','LAMY','The modern look of the LAMY Studio has just the right hints of artistic flair to give it an elegant yet subtle design. The matte black body is simply adorned with a clip that starts off traditionally yet twists at the end. The pen comes boxed with one blue ink cartridge and one converter.
+Note: This pen may come with ink residue in the nib from being dip tested by LAMY at the factory. As with all new fountain pens, we recommend giving your LAMY a good cleaning before you use it.
+
+',79.00,250,1),
+('Classic','../Images/Pen/Foutain Pen/Thumbnail/FP-011-01.png','Foutain Pen','KAWECO','Choosing Keeping holds the largest range of Kaweco pens in the UK - indeed we have built a long-lasting friendship with the beloved Gutberlet family who run the company with so much brains and gusto. Kaweco is often mistaken for a Japanese brand - not so! - it is 100% German. Originally established in 1899 in Heidelberg (also home of Lamy), the company was eventually renamed Kaweco as its owners namesake, Henrich Koch and Rudolph Weber - KOch, WEber and COmpany. Here pictured, an advertisement from 1911 which declares, ‘stocked in every best stationery store’ - still the case!
+
+The Classic Sport range, introduced to market in 1934, broke new ground in modern design for its unique octagonal barrel and handy portable size intended for use by ‘ladies, officers and sportspeople’. Kaweco were covering all bases with their marketing of this hugely successful pen, now synonymous with the brand itself.
+
+Originally Classic Sport pens were made from ebonite (a very hard rubber), in black and then burgundy, featuring a fine engraved pattern known as a guilloche. Today, the design remains largely unchanged - measuring 10cm when capped, for optimal writing comfort and using a modern cartridge system for practicality - now in a wide range of exciting colours and finishes. Hard wearing ABS moulded plastics, clear plastics, hand turned acrylics, stainless steel, brass, copper, aluminium, and patinated finishes are all à la carte for you to choose from.  ',26.00,250,1),
+('Liliput','../Images/Pen/Foutain Pen/Thumbnail/FP-012-01.png','Foutain Pen','KAWECO','The Liliput is the smallest member of Kaweco\'s fountain pen lineup and among the smallest fountain pens in the world that use standard international short ink cartridges. Threading on the end of the barrel allows the cap to be screwed on securely, bringing the pen to a comfortable, full-sized length while in use. Originally introduced in 1910, the Liliput was re-released in 2011 and is available in a variety of attractive materials and finishes.',110.00,250,1),
+('Frosted Sport','../Images/Pen/Foutain Pen/Thumbnail/FP-013-01.png','Foutain Pen','KAWECO','The Kaweco Frosted Sport Fountain Pen gives you a glimpse of the inner workings of the pen through the milky exterior. The barrel is produced from high-quality ABS/Makrolon plastic, featuring a cylindrical barrel and an octagonal cap design. This stops your pen from rolling, ideal for use on a train or aeroplane. The nib is rendered from durable stainless steel with a chrome plated finish, designed to generate a brilliantly smooth writing experience.
+
+These pens are durable but incredibly lightweight. The unique design means that the compact design is extended when the cap is placed on the end of the pen. The Kaweco Frosted Sport Fountain Pen is part of a range of beautiful writing instruments created by this German writing instrument company. Learn more about the history of the Kaweco brand here.',20.00,250,1),
+('Perkeo','../Images/Pen/Foutain Pen/Thumbnail/FP-014-01.png','Foutain Pen','KAWECO','The Kaweco Perkeo is a revisit of an early 20th century model of the same name. The Kaweco Perkeo is made of Plastic and has some visual similarities with the Kaweco Sport, but is considerably larger. The section is intended to be more ergonomic and the body is faceted. The Kaweco Perkeo comes in multiple appealing colours.
+
+The Kaweco Perkeo Fountain pen has a steel nib made by the German company Bock Heidelberg and fills by cartridge or converter.',15.00,250,1),
+('Sport Lavender','../Images/Pen/Foutain Pen/Thumbnail/FP-015-01.png','Foutain Pen','KAWECO','The Kaweco Skyline Sport is one of the few writing instruments which have been successful in the market for decades without big changes. It follows the design of the year 1935. A friendship for generations.
+
+The Collectors Edition 2021 is ‘Light Lavender’. This edition will be available for a limited time. 
+
+This product will be shipped by the refill & ink conditions.
+
+A striking feature of the Kaweco Sport Fountain pen is that it is very small. It has a lenght of only 10.5 cm with closed cap, and therefore easy to store in a bag or pocket, but with the cap on the back of the penit measures 13.5 cm and it is excellent to write with.
+
+The Kaweco Skyline Sport Fountain pen has a steel nib made by the German company Bock Heidelberg and fills by cartridge or converter.
+
+Kaweco belongs to one of the oldest brands on the market. For more than 125 years Kaweco pens are an integral part of the High-Class assortments. Kaweco insistently focuses on the thin line between tradition and innovation.',110.00,250,1),
+('Supra','../Images/Pen/Foutain Pen/Thumbnail/FP-016-01.png','Foutain Pen','KAWECO','The Kaweco Supra Fountain Pen is a compact pocket style fountain pen with an all steel cap and barrel. The cap on the pen posts to make the length longer for writing and there is also an additional removable section to extend the pen an extra 2.5 cms. The Supra accepts standard ink cartridges (Kaweco cartridges can be found here in our store).
+
+Kaweco was founded in 1883 and became an innovative pen manufacturer over time. Vision and untiring efforts, with love and passion for details and the products, made Kaweco famous worldwide.',90.91,250,1),
+('Student','../Images/Pen/Foutain Pen/Thumbnail/FP-012-01.png','Foutain Pen','KAWECO','Kaweco Decades 
+Relive the past musical decades with the Kaweco 70\'s Soul, 60\'s Swing and the 50\'s Rock.  A great pen for everyday use, the decades collection will appeal to writers of every age.  It\'s classic styling recalls vintage pens of the 1930\'s, now updated with the 70\'s Soul finish in orange, 60\'s Swing in Green and 50\'s rock in blue; all three feature cream-colored resin combined with gold-plated trim.  The fountain pen features a quality German-made gold-plated steel nib. Collection also features capped rollerball and twist ballpen and is shipped in a Kaweco metal gift box.
+',70.00,250,1)

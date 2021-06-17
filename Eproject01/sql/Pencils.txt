@@ -1,0 +1,81 @@
+INSERT INTO product(
+    TITLE,
+    THUMBNAIL,
+    CATEGORY,
+    MANUFACTURER,
+    DESCRIPTION,
+    PRICE,
+    QUANTITY,
+STATUS
+)
+VALUES(
+    'Safari Mechanical',
+    '../Images/Pen/Pencils/Thumbnail/P-001-01.png',
+    'Pencil',
+    'LAMY',
+    'Life is a jungle, and the popular LAMY Safari can take you through it one line at a time. LAMY is a world-famous pen company headquartered in Germany. Their Safari line consists of high quality pens made of sturdy ABS plastic and flexible brass wire chrome clips.
+Pencil takes 0.5 mm lead and features a LAMY Z 18 eraser with cleaning needle underneath the cap. Great look, great design.',
+    20.00,
+    250,
+    1
+),(
+    'Logo Mechanical',
+    '../Images/Pen/Pencils/Thumbnail/P-002-01.png',
+    'Pencil',
+    'LAMY',
+    'Mechanical pencil made of stainless steel with brushed finish. Metal button and point. With spring-mounted steel clip. Push mechanism with integrated clip-button unit. With 0.5 mm (LAMY M 41) lead. Designer: Wolfgang Fabian.',
+    19.90,
+    250,
+    1
+),(
+    'Drawing Pencil Set',
+    '../Images/Pen/Pencils/Thumbnail/P-003-01.png',
+    'Pencil',
+    'Moleskine',
+    'MOLESKINE PENCIL SET: High-quality pencils for sketching, writing & drawing, Moleskine Pencil Sets are made of natural cedar wood with a naturally inspiring grip. From watercolors to sketching, Moleskine pencil sets bring out the artist in anyone.
+MOLESKINE PENCILS: Do you love the feel of pencil on paper? Moleskine pencils are designed for writers, students, and artists who know the love of handwriting, whether writing in their journal, sketchbook, planner, or classic Notebook.
+MADE WITH HANDWRITING IN MIND: The Moleskine Writing Collection is made with handwriting in mind. All of our pens and pencils clip onto the side of your favorite Moleskine notebook, so they won go missing.
+PENS & PENCILS FOR MOLESKINE NOTEBOOKS: Whatever youre writing, Moleskine has a pen or pencil for you. From roller & ballpoint pens, to click pencils & wooden pencils, Moleskine pens & pencils are the perfect companion to your Moleskine notebooks.
+MOLESKINE QUALITY: Were dedicated to culture, travel, memory, imagination, & personal identity—both physical & digital. We bring this commitment to our notebooks, bags, apps & smart pens & notebooks.',
+    14.90,
+    250,
+    1
+),(
+    'Brass',
+    '../Images/Pen/Pencils/Thumbnail/P-004-01.png',
+    'Pencil',
+    'Traveler\'s Company',
+    'A stylish Japanese reinterpretation of a classic American writing instrument, this bullet-style pencil holder combines comfort and portability into one clever design. Thanks to its long cap and short barrel, the pencil is an easily pocketable four inches long when capped and a comfortable five and a half inches long with the cap posted on the back of the barrel.
+To remove the clip, unscrew the eraser and ferrule from the cap. Lift the clip away, and screw the eraser and ferrule back down.',
+    28.50,
+    250,
+    1
+),(
+    'Brass Pencil Refill Pack',
+    '../Images/Pen/Pencils/Thumbnail/P-005-01.png',
+    'Pencil',
+    'Traveler\'s Company',
+    'This refill pack includes three pencils and two erasers for the Traveler\'s Company Brass Pencil. Made in Japan.',
+    5.95,
+    250,
+    1
+),(
+    'Special Mini Mechanical',
+    '../Images/Pen/Pencils/Thumbnail/P-006-01.png',
+    'Pencil',
+    'KAWECO',
+    'The sleek and compact design of the Kaweco Special AL Mini Mechanical Pencil is a classy addition to the Kaweco series of aluminum writing instruments. The octagonal barrel consists of anodized solid aluminum with a matte black finish. The pencil has a top knock button, allowing you to extend lead in small amounts with each click. Remove the top button to insert replacement lead. Features the iconic silver Kaweco logo on the cap. Multiple lead sizes available.',
+    42.00,
+    250,
+    1
+),(
+    'Classical Mechanical',
+    '../Images/Pen/Pencils/Thumbnail/P-007-01.png',
+    'Pencil',
+    'KAWECO',
+    'The sporty style of these compact, German-made mechanical pencils is just as attractive today as when they were first created years ago.
+The plastic pencil body features a top push button that dispenses lead with every click. Removing the cap exposes the lead tube, where lead refills are inserted. We recommend adding no more than 3 lead pieces to avoid a lead jam.',
+    26.50,
+    250,
+    1
+)
