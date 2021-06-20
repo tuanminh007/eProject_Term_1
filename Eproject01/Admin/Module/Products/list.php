@@ -1,10 +1,11 @@
 <?php
 $title = 'Product List';
 require_once('Layout/header.php');
-require_once ('Config\utility.php');	
+require_once ('Config\utility.php');
+require_once('Module/Products/pagination.php');	
 ?>
 <?php
-$ProductList = executeResult('select * from product', false);
+// $ProductList = executeResult('select * from product', false);
 ?>
 <style type="text/css">
 	a:link{
@@ -15,8 +16,13 @@ $ProductList = executeResult('select * from product', false);
   }
 </style>
 <div class="container">
-
-	<button type="button"class="bg-light"><a href="index.php?module=products&action=add">Thêm Sản Phẩm</a></button>
+  <form method="GET">
+    <input type="hidden" name="module" value="products">
+      <input type="hidden" name="action" value="list">
+     <button type="submit" style="float:right;margin-top: 10px;margin-bottom: 10px;"><i class="bi bi-search"></i></button>
+    <input type="text" name="keyword" style="float:right;margin-top: 10px;margin-bottom: 10px;">
+  </form>
+    <button type="button"class="bg-light" style="margin-top: 10px; margin-bottom: 10px;"><a href="index.php?module=products&action=add">Thêm Sản Phẩm</a></button>
 <table class="table justify-content-center">
   <thead>
     <tr>
@@ -34,6 +40,8 @@ $ProductList = executeResult('select * from product', false);
     </tr>
   </thead>
   <tbody>
+
+
  <?php  
  $count = 0;
  foreach ($ProductList as $item) {
@@ -70,8 +78,9 @@ $ProductList = executeResult('select * from product', false);
 
 </div>
 
-
-
+<?php
+require_once("pgtdisplay.php");
+?>
 
 <?php
 require_once('Layout/footer.php');

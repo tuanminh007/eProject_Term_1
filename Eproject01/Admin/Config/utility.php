@@ -1,4 +1,6 @@
 <?php
+
+define('PAGE_NUMBER_MAX', 7);
 function execute($sql){
     $conn = mysqli_connect(HOST, USERNAME, PASSWORD, DATABASE);
 	mysqli_set_charset($conn, 'utf8');

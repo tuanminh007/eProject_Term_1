@@ -42,7 +42,7 @@
 	        <a class="nav-link" href="index.php?module=products&action=list">Quản lý sản phẩm </a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link"href="index.php?module=orders&action=list">Quản lý hóa đơn</a>
+	        <a class="nav-link"href="index.php?module=orders&action=list">Quản lý đơn hàng</a>
 	      </li>
 	      <li class="nav-item">
 	        <a class="nav-link" href="index.php?module=users&action=list">Quản lý khách hàng</a>
